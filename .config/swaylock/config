@@ -34,7 +34,7 @@ indicator-caps-lock
 
 # Define all colors
 
-key-hl-color=00000066
+key-hl-color=ba74d0ff
 separator-color=00000000
 
 inside-color=00000033

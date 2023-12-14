@@ -14,7 +14,7 @@
   // Modules Left
   "modules-left": [
     "custom/exit",
-    "custom/appmenu",
+    "custom/date",
     "wlr/taskbar",
     "hyprland/window"
   ],

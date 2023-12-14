@@ -184,8 +184,16 @@
     // Clock
     "clock": {
         // "timezone": "America/New_York",
+        "format": "{:%I:%M %p}",
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
-        "format-alt": "{:%Y-%m-%d}"
+        "format-alt": "{:%d-%m-%Y}"
+    },
+
+    // Date
+    "custom/date": {
+      "exec": "date +'%a %d %b %Y'",
+      "interval": 60,
+      "tooltip": false
     },
 
     // CPU
