@@ -125,6 +125,7 @@ esac
 
 export PATH=$PATH:/usr/local/go/bin
 export PATH=$PATH:/home/taylan/coding/scripts
+export JFX_PATH=/usr/local/javafx-sdk-21.0.1/lib
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
@@ -159,3 +160,4 @@ _dotnet_zsh_complete()
 }
 
 compdef _dotnet_zsh_complete dotnet
+

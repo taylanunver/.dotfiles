@@ -31,11 +31,11 @@ window {
 
 button {
 	color: #FFFFFF;
-    font-size:20px;
+    font-size:16px;
 
     background-repeat: no-repeat;
 	background-position: center;
-	background-size: 25%;
+	background-size: 15%;
 
 	border-style: solid;
 	background-color: rgba(12, 12, 12, 0.3);
