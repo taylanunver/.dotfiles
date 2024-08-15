@@ -1,0 +1,11 @@
+@import '/home/taylan/.cache/wal/colors-waybar.css';
+
+@define-color backgroundlight rgba(0,0,0,0);
+@define-color backgrounddark rgba(0,0,0,0);
+@define-color workspacesbackground1 rgba(0,0,0,0);
+@define-color workspacesbackground2 rgba(0,0,0,0);
+@define-color bordercolor rgb(220, 220, 220);
+@define-color textcolor1 #FFFFFF;
+@define-color textcolor2 rgb(220, 220, 220);
+@define-color textcolor3 #FFFFFF;
+@define-color iconcolor #FFFFFF;

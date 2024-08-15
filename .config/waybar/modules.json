@@ -76,7 +76,7 @@
 
     // Updates Count
     "custom/updates": {
-        "format": "  {}",
+        "format": "   {}",
         "tooltip-format": "{}",
         "escape": true,
         "return-type": "json",
@@ -220,7 +220,7 @@
     "network": {
         "format": "{ifname}",
         "format-wifi": "   {signalStrength}%",
-        "format-ethernet": "  {ipaddr}",
+        "format-ethernet": "\udb80\ude00  {ipaddr}",
         "format-disconnected": "", //An empty format will hide the module.
         "tooltip-format": " {ifname} via {gwaddri}",
         "tooltip-format-wifi": "   {essid} ({signalStrength}%)",
@@ -248,7 +248,7 @@
     // Pulseaudio
     "pulseaudio": {
         // "scroll-step": 1, // %, can be a float
-        "format": "{icon} {volume}%",
+        "format": "{icon}  {volume}%",
         "format-bluetooth": "{volume}% {icon} {format_source}",
         "format-bluetooth-muted": " {icon} {format_source}",
         "format-muted": " {format_source}",
