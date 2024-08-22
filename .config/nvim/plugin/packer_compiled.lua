@@ -184,6 +184,11 @@ _G.packer_plugins = {
     path = "/home/taylan/.local/share/nvim/site/pack/packer/start/vim-prettier",
     url = "https://github.com/prettier/vim-prettier"
   },
+  ["vim-tmux-navigator"] = {
+    loaded = true,
+    path = "/home/taylan/.local/share/nvim/site/pack/packer/start/vim-tmux-navigator",
+    url = "https://github.com/christoomey/vim-tmux-navigator"
+  },
   ["zen-mode.nvim"] = {
     loaded = true,
     path = "/home/taylan/.local/share/nvim/site/pack/packer/start/zen-mode.nvim",
